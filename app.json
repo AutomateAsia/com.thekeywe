@@ -17,6 +17,13 @@
       }
     ]
   },
+  "contributing": {
+    "donate": {
+      "paypal": {
+        "username": "limkopi78"
+      }
+    }
+  },
   "description": {
     "en": "Adds support for KeyWe Z-Wave enabled locks"
   },
@@ -184,7 +191,7 @@
     {
       "id": "GKW-2000D",
       "name": {
-        "en": "KeyWe Z-Wave Locks"
+        "en": "KeyWe GKW-2000D"
       },
       "zwave": {
         "manufacturerId": [
