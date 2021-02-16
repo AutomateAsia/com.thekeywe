@@ -11,7 +11,7 @@ This app adds support for Z-wave devices made by [KeyWe](http://keywe.thekeywe.c
 [Locks available on Automate Asia](https://h4sh.automate.asia/)   
 
 ## Supported devices:
-### KeyWe GKW-2000D EU Frequency    
+1. KeyWe GKW-2000D EU Frequency    
 
 
 ## Flow cards support following triggers
